@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tx_voter_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voter name"
+        android:textSize="36sp"
+        android:layout_margin="12dp"/>
+
+    <TextView
+        android:id="@+id/tx_voted_for"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voted for: "
+        android:textSize="18sp"
+        android:layout_margin="8dp" />
+
+
+
+</LinearLayout>

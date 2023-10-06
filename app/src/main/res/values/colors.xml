@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="design_default_color_primary">#6200EE</color>
+    <color name="design_default_color_primary_dark">#3700B3</color>
+    <color name="design_default_color_primary_variant">#3700B3</color>
+    <color name="design_default_color_secondary">#03DAC5</color>
+    <color name="design_default_color_secondary_variant">#018786</color>
+    <color name="design_default_color_background">#FFFFFF</color>
+    <color name="design_default_color_error">#B00020</color>
+    <color name="design_default_color_on_primary">#FFFFFF</color>
+    <color name="design_default_color_on_secondary">#000000</color>
+    <color name="design_default_color_on_background">#000000</color>
+    <color name="design_default_color_on_error">#FFFFFF</color>
+    <color name="design_default_color_surface">#FFFFFF</color>
+    <color name="design_default_color_on_surface">#000000</color>
+    <color name="my_dark_primary">#000000</color>
+    <color name="my_dark_primary_variant">#000000</color>
+    <color name="my_dark_on_primary">#FFFFFF</color>
+    <color name="my_dark_secondary">#000000</color>
+    <color name="my_dark_secondary_variant">#000000</color>
+    <color name="my_dark_on_secondary">#FFFFFF</color>
+    <color name="my_dark_surface">#000000</color>
+    <color name="my_dark_on_surface">#FFFFFF</color>
+<color name="my_light_primary">#FFFFFF</color>
+<color name="my_light_primary_variant">#FFFFFF</color>
+<color name="my_light_on_primary">#000000</color>
+<color name="my_light_secondary">#FFFFFF</color>
+<color name="my_light_secondary_variant">#FFFFFF</color>
+<color name="my_light_on_secondary">#000000</color>
+<color name="my_light_surface">#FFFFFF</color>
+<color name="my_light_on_surface">#000000</color>
+
+</resources>
